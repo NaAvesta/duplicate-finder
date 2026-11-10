@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+Report.txt
+duplicate-finder.py
