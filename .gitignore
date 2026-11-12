@@ -3,4 +3,7 @@ __pycache__/
 .venv/
 venv/
 Report.txt
+Trash/
+trash_history.json
+test
 duplicate-finder.py
